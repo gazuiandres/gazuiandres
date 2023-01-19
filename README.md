@@ -1,6 +1,6 @@
 # 💫 About Me:
-### Hello there!<br>
-I'm a young developer from Venezuela that is passionate about technology. My focus experience is backend, but I also have knowledge with frontend technologies!
+### Hello there!
+I'm a young developer from Venezuela, my main focus is Backend but I also have Frontend skills. I'm passionate about technology and I'm always looking for challenges that will make me grow as a developer.
 
 
 ## 🌐 Socials:
