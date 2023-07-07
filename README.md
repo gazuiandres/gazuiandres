@@ -3,7 +3,7 @@
    <h3 align="center">Hello there!, I'm Andrés.</h3>
 </p>
 
-<p align="center"><strong>Full Stack Developer</strong> 🖥️</p>
+<p align="center"><strong>Web Developer</strong> 🖥️</p>
 
 # 🤔 About Me:
 I'm a young developer from Venezuela, I'm passionate about technology and I'm always looking for challenges that will make me grow as a developer. My main focus is Backend but I also have knowledge in Frontend technologies.
